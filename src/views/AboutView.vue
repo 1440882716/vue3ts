@@ -39,7 +39,7 @@ export default {
     })
 
     function update1() {
-      // console.log("更新...")
+      console.log("更新...")
       // debugger
       count.value = count.value + 1
     }
